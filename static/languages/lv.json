@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz elektroenerģijas patērē mājsaimniecības Eiropā?",
+  "subtitle": "Elektroenerģijas patēriņš uz vienu mājsaimniecību visā ES 27 valstī laikā no 2018. līdz 2023. gadam pieauga par 2,6 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Šie skaitļi tiek aprēķināti, izmantojot datu kopu par mājsaimniecību elektroenerģijas gala patēriņu visās Eiropas Savienības dalībvalstīs. Pēc tam, lai iegūtu vizualizētus rezultātus, valstu skaitļi tiek dalīti ar mājsaimniecību skaitu.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "GWh uz mājsaimniecību",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
