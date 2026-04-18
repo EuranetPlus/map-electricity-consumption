@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad leictreachais atá á n-ídiú ag teaghlaigh Eorpacha?",
+  "subtitle": "D’ardaigh tomhaltas leictreachais in aghaidh an teaghlaigh ar fud an AE27 faoi 2.6% idir 2018 agus 2023.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Ríomhtar na figiúirí trí úsáid a bhaint as tacar sonraí ar an tomhaltas leictreachais deiridh i dteaghlaigh ar fud bhallstáit an Aontais Eorpaigh. Roinntear na figiúirí tír-shonracha ansin ar líon na dteaghlach chun na torthaí shamhlaithe a fháil.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "GWh in aghaidh an teaghlaigh",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
