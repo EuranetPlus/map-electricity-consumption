@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket el förbrukar europeiska hushåll?",
+  "subtitle": "Elförbrukningen per hushåll i EU27 ökade med 2,6 % mellan 2018 och 2023.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Siffrorna beräknas med hjälp av en datauppsättning om den slutliga elförbrukningen i hushåll i EU:s medlemsstater. De landsspecifika siffrorna divideras sedan med antalet hushåll för att få de visualiserade resultaten.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "GWh per hushåll",
   "tooltipExtraInfoLabel": "Klicka här"
 }
