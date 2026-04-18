@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile prądu zużywają europejskie gospodarstwa domowe?",
+  "subtitle": "Zużycie energii elektrycznej w przeliczeniu na gospodarstwa domowe w UE-27 wzrosło o 2,6% w latach 2018–2023.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Dane te oblicza się na podstawie zbioru danych dotyczących końcowego zużycia energii elektrycznej w gospodarstwach domowych w państwach członkowskich Unii Europejskiej. Następnie dane dla poszczególnych krajów dzieli się przez liczbę gospodarstw domowych, aby uzyskać wizualizację wyników.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "GWh na gospodarstwo domowe",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
