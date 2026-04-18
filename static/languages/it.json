@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quanta elettricità consumano le famiglie europee?",
+  "subtitle": "Il consumo di elettricità per famiglia nell'UE a 27 è aumentato del 2,6% tra il 2018 e il 2023.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "I dati vengono calcolati utilizzando un set di dati sul consumo finale di elettricità nelle famiglie degli Stati membri dell'Unione europea. I dati specifici di ciascun paese vengono poi divisi per il numero di famiglie per ottenere i risultati visualizzati.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "GWh per famiglia",
   "tooltipExtraInfoLabel": "clicca qui"
 }
