@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm qed jikkunsmaw elettriku l-familji Ewropej?",
+  "subtitle": "Il-konsum tal-elettriku għal kull dar madwar l-UE27 żdied b'2.6% bejn l-2018 u l-2023.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Iċ-ċifri huma kkalkulati bl-użu ta’ sett ta’ dejta dwar il-konsum finali tal-elettriku fid-djar madwar l-istati membri tal-Unjoni Ewropea. Iċ-ċifri speċifiċi għall-pajjiż imbagħad huma diviżi bin-numru ta’ djar biex jinkisbu r-riżultati viżwalizzati.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "GWh għal kull familja",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
