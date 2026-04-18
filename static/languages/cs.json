@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik elektřiny spotřebují evropské domácnosti?",
+  "subtitle": "Spotřeba elektřiny na domácnost v celé EU-27 vzrostla mezi lety 2018 a 2023 o 2,6 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje se vypočítávají s využitím datové sady o konečné spotřebě elektřiny v domácnostech napříč členskými státy Evropské unie. Údaje specifické pro jednotlivé země se poté vydělí počtem domácností, čímž se získají vizualizované výsledky.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "GWh na domácnost",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
